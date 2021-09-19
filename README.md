@@ -12,4 +12,4 @@ Tasarım Kalıpları ve UML Kursu
 + [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-Tasarim-Kaliplari-ve-UML-Kursu-21-Eylul-2021)
 + [Kurs İçeriği](https://github.com/CSD-1993/Online-Tasarim-Kaliplari-ve-UML-Kursu-21-Eylul-2021/blob/main/kurs_icerigi.md)
 + [Sık Sorulan Sorular](https://github.com/CSD-1993/Online-Tasarim-Kaliplari-ve-UML-Kursu-21-Eylul-2021/blob/main/sss.md)
-+ [Kursa Kayıt](https://us06web.zoom.us/meeting/register/tZUoce-vrD4uE9KrFKotb0DGFyLuDUQPc6w8)
++ [Kursa Kayıt]( https://zoom.us/meeting/register/tJYpcO2hqDkuHdCWefkxjpH0XAXoZ3XqmjC2)
